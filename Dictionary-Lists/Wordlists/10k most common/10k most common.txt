@@ -5,6 +5,7 @@ password
 qwerty
 12345
 dragon
+123
 pussy
 baseball
 football
